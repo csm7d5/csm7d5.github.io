@@ -1,0 +1,44 @@
+body {
+	background-color: #cce0d6;
+}
+
+header {
+	text-align:center;
+	margin:5%;
+	border:hidden;
+	padding-top:3%;
+	padding-bottom:2%;
+	font-size:2pc;
+	font-weight:bold;
+	background-color: #00cc99;
+}
+
+nav li {
+	display: inline-block;
+	border: none;
+	border-style: thin;
+	border-color:white;
+	margin-right: 4%;
+	padding:1%;
+	color:white;
+}
+
+nav {
+	margin-top: 2%;
+	margin-left: 5%;
+	margin-right: 5%;
+	border:dotted;
+	background-color: #330066;
+}
+
+a:hover {
+	color:black;
+}
+
+li:hover {
+	background-color:white;
+	color:black;
+}
+nav ul {
+	margin-left:17%;
+}
